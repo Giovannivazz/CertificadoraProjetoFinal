@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gerenciador de Vídeos</string>
+    <string name="label_title">Título do Vídeo</string>
+    <string name="hint_title">Digite o título</string>
+    <string name="label_format">Formato</string>
+    <string name="form_horizontal">Horizontal (YouTube)</string>
+    <string name="form_vertical">Vertical (TikTok)</string>
+    <string name="label_channel">Selecione o Canal</string>
+    <string name="label_date">Data de Lançamento</string>
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_channels">Canais</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_save">Salvar</string>
+    <string name="menu_clear">Limpar</string>
+    <string name="msg_cleared">Campos limpos</string>
+    <string name="msg_error">Preencha tudo</string>
+    <string name="msg_removed">Removido com sucesso</string>
+    <string name="title_confirm">Aviso</string>
+    <string name="msg_confirm_delete">Tem certeza que deseja excluir?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="title_settings">Configurações</string>
+    <string name="label_suggest">Sugerir nome do último vídeo</string>
+
+
+</resources>
